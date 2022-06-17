@@ -1,0 +1,10 @@
+[
+  {
+    "package": "epanet2toolkit",
+    "oncran": true
+  },
+  {
+    "package": "epanetReader",
+    "oncran": true
+  }
+]
