@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "epanet2toolkit"]
 	path = epanet2toolkit
 	url = https://github.com/bradleyjeck/epanet2toolkit
-	shallow = true
-	registered = true
 [submodule "epanetReader"]
 	path = epanetReader
 	url = https://github.com/bradleyjeck/epanetreader
-	shallow = true
-	registered = true
